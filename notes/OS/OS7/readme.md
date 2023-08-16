@@ -1,0 +1,6 @@
+![OS7_page-0001](https://github.com/umarf2212/os_concepts/assets/36859307/f507e162-f48c-4685-8371-41c4910b3471)
+![OS7_page-0002](https://github.com/umarf2212/os_concepts/assets/36859307/57330219-6645-4781-922b-57323f550489)
+![OS7_page-0003](https://github.com/umarf2212/os_concepts/assets/36859307/e434b5e5-e7b3-4113-b408-9d5443ac8a65)
+![OS7_page-0004](https://github.com/umarf2212/os_concepts/assets/36859307/cc752550-30ae-4206-a5b7-a2c4a0fd75af)
+![OS7_page-0005](https://github.com/umarf2212/os_concepts/assets/36859307/f11a23de-763d-4fa4-abf3-db90fb4d8b97)
+![OS7_page-0006](https://github.com/umarf2212/os_concepts/assets/36859307/e8a22736-8b1f-4480-9ff1-e6659b9001e0)
