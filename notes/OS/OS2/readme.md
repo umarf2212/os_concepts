@@ -1,1 +1,6 @@
-![OS2 CPU Scheduling](OS2_page-0001.jpg)
+![OS2_page-0001](https://github.com/umarf2212/os_concepts/assets/36859307/cd9cf1b4-ef57-4c24-8267-b58a8f065db7)
+![OS2_page-0002](https://github.com/umarf2212/os_concepts/assets/36859307/a26e461d-eb5e-4a64-bedb-76bec4f05d99)
+![OS2_page-0003](https://github.com/umarf2212/os_concepts/assets/36859307/43a58b26-dfc1-4927-8a59-a79ba231bd5d)
+![OS2_page-0004](https://github.com/umarf2212/os_concepts/assets/36859307/cb36e0d3-ed39-449e-be47-c64e80c54224)
+![OS2_page-0005](https://github.com/umarf2212/os_concepts/assets/36859307/26adf47e-e27f-4e30-8bfe-9f52725ed0b6)
+![OS2_page-0006](https://github.com/umarf2212/os_concepts/assets/36859307/8f0e4b60-3a40-4dc8-bc68-ee1ebd51f2ea)
